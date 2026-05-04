@@ -1,0 +1,53 @@
+[
+  {
+    "id": "1",
+    "name": "Signature Wagyu Burger",
+    "description": "Gourmet wagyu beef burger with aged cheddar, caramelized onions, and truffle aioli on a toasted brioche bun.",
+    "price": 18.50,
+    "image": "/src/assets/images/gourmet_burger_1777878888041.png",
+    "category": "Main Courses",
+    "featured": true
+  },
+  {
+    "id": "2",
+    "name": "Classic Botanical Cocktail",
+    "description": "Sophisticated craft cocktail with botanical gin, elderflower liqueur, and fresh cucumber garnish.",
+    "price": 12.00,
+    "image": "/src/assets/images/fancy_cocktail_1777878904878.png",
+    "category": "Drinks",
+    "featured": true
+  },
+  {
+    "id": "3",
+    "name": "Deconstructed Tiramisu",
+    "description": "A modern take on the classic Italian dessert with espresso-soaked ladyfingers and whipped mascarpone.",
+    "price": 9.50,
+    "image": "/src/assets/images/tiramisu_dessert_1777878922737.png",
+    "category": "Desserts",
+    "featured": true
+  },
+  {
+    "id": "4",
+    "name": "Crispy Truffle Fries",
+    "description": "Double-fried potatoes tossed in truffle oil, parmesan cheese, and fresh parsley.",
+    "price": 8.00,
+    "image": "https://picsum.photos/seed/fries/600/450",
+    "category": "Sides"
+  },
+  {
+    "id": "5",
+    "name": "Garden Harvest Salad",
+    "description": "Seasonal mixed greens, roasted beets, goat cheese, and balsamic reduction.",
+    "price": 14.00,
+    "image": "https://picsum.photos/seed/salad/600/450",
+    "category": "Main Courses"
+  },
+  {
+    "id": "6",
+    "name": "Smoked Salmon Crostini",
+    "description": "Thinly sliced smoked salmon on toasted baguette with lemon-herb cream cheese.",
+    "price": 11.50,
+    "image": "https://picsum.photos/seed/salmon/600/450",
+    "category": "Appetizers"
+  }
+]

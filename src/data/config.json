@@ -1,0 +1,18 @@
+{
+  "name": "Flavor & Fire",
+  "tagline": "Crafted Cuisine, Timeless Memories",
+  "phone": "+1 (555) 123-4567",
+  "email": "hello@flavorfire.com",
+  "address": "123 Culinary Ave, Food District, NY 10001",
+  "whatsappNumber": "96171317958",
+  "socials": {
+    "instagram": "https://instagram.com/flavorfire",
+    "facebook": "https://facebook.com/flavorfire"
+  },
+  "openingHours": {
+    "Mon - Thu": "11:00 AM - 10:00 PM",
+    "Fri - Sat": "11:00 AM - 11:00 PM",
+    "Sunday": "12:00 PM - 9:00 PM"
+  },
+  "heroImage": "/src/assets/images/restaurant_hero_1777878871655.png"
+}
